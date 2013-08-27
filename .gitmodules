@@ -1,0 +1,6 @@
+[submodule "csf"]
+	path = csf
+	url = git://github.com/installation/csf.git
+[submodule "lmd"]
+	path = lmd
+	url = git://github.com/installation/lmd.git
