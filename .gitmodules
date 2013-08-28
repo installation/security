@@ -4,3 +4,6 @@
 [submodule "lmd"]
 	path = lmd
 	url = git://github.com/installation/lmd.git
+[submodule "rkhunter"]
+	path = rkhunter
+	url = git://github.com/installation/rkhunter.git
