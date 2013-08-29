@@ -7,6 +7,6 @@
 [submodule "rkhunter"]
 	path = rkhunter
 	url = git://github.com/installation/rkhunter.git
-[submodule "chkrootit"]
-	path = chkrootit
-	url = git://github.com/installation/chkrootkit.git
+[submodule "chkrootkit"]
+	path = chkrootkit
+	url = https://github.com/installation/chkrootkit.git
